@@ -1,0 +1,4 @@
+com.brocode.lamp_flutter
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
